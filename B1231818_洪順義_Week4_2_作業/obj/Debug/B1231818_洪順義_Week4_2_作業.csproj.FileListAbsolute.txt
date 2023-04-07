@@ -1,0 +1,9 @@
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\bin\Debug\B1231818_洪順義_Week4_2_作業.exe
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\bin\Debug\B1231818_洪順義_Week4_2_作業.pdb
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.csproj.AssemblyReference.cache
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.Form1.resources
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.Properties.Resources.resources
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.csproj.GenerateResource.cache
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.csproj.CoreCompileInputs.cache
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.exe
+D:\[PCCU Class]\2023\Maret 2023\16 Maret 2023 Week_4\Week4_作業\B1231818_洪順義_Week4_作業\B1231818_洪順義_Week4_2_作業\B1231818_洪順義_Week4_2_作業\obj\Debug\B1231818_洪順義_Week4_2_作業.pdb
